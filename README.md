@@ -1,2 +1,2 @@
-# Mirayi
+# Pandu
 This is  about Devops
